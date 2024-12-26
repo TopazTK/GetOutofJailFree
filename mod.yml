@@ -1,0 +1,8 @@
+title: Get Out of Jail Free!
+originalAuthor: TopazTK
+description: "With any Key Combo of your choosing, you can instantly warp to GOA from any situation! Should only be used in emergencies! Default Key Combo: [L2 + R2 + SELECT]"
+assets:
+- name: scripts/GetOutofJailFree.lua
+  method: copy
+  source:
+  - name: scripts/GetOutofJailFree.lua
